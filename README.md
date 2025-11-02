@@ -1,14 +1,21 @@
-- 👋 Hi, I’m @DarkRader
-- 👀 I’m interested in anime, music, programming
-- 🌱 I possess solid skills in C/C++ and have decent skills in Java, SwiftUI I have also done several projects in Python, including web applications, for which I wrote backends. I also have knowledge and experience with frontends. 
-- 💞️ I’m looking to collaborate on some project related with programming 
-- 📫 How to reach me:
-* Facebook: https://www.facebook.com/kuznetsov.artem.750
-* Telegram: https://t.me/hoperader
-* Email: artyom.20century@gmail.com
+<h1 align="center">👋 I'm Artem Kuznetsov</h1>
 
-<h1 align="center">Skills</h1>
-I had experience with:
+<p align="center">
+  <b>Backend Engineer</b> | <b>DevOps</b> | <b>Python & Kotlin enthusiast</b>
+</p>
+
+### 🚀 About Me  
+- 💡 Passionate about building backend systems and developer infrastructure  
+- 🧠 Skilled in **Python**, **Kotlin**, and **cloud-native DevOps**  
+- 🧩 Creator of **Reservium API**, a reservation system 
+- 🌍 Love clean architecture, automation, and tools that make developers' lives easier
+
+<h1 align="center">Education</h1>
+
+✦ `2021` to `2025` BA Software Engineer at <b> <a href="https://fit.cvut.cz">Faculty of Information Technology CTU in Prague</a> </b>
+
+
+<h1 align="center">Tech Stack</h1>
 <h3>Languages</h3>
 
 ![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -52,3 +59,16 @@ I had experience with:
 ![Zed](https://img.shields.io/badge/Zed-%2320232a.svg?&style=for-the-badge&logo=zedindustries&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a.svg?style=for-the-badge&logo=v&logoColor=0078d7)
 ![JetBrains](https://img.shields.io/badge/JetBrains%20IDEs-%2320232a.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+
+<h1 align="center">Communication</h1>
+
+I speak Czech, English and Russian
+
+
+<h1 align="center">GitHub Stats</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarkRader&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DarkRader&theme=tokyonight" height="165">
+</p>
+
