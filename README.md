@@ -20,11 +20,18 @@
 
 ![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Kotlin](https://img.shields.io/badge/kotlin-%2320232a.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-![Kotlin](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/swift-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=F05138)
+![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge)
+![Swift](https://img.shields.io/badge/swift-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=F05138)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-%2320232a.svg?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
 ![Html](https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
 ![Css](https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css&logoColor=%231572B6)
+
+<h3>Frameworks</h3>
+
+![FastAPI](https://img.shields.io/badge/fastapi-%2320232a.svg?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%2320232a.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Jetpack Compose](https://img.shields.io/badge/jetpack%20compose-%2320232a.svg?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4)
+![SwiftUI](https://img.shields.io/badge/swiftui-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=F05138)
 
 <h3>Databases</h3>
 
@@ -33,8 +40,13 @@
 ![Roomdb]( https://img.shields.io/badge/roomdb-%2320232a.svg?style=for-the-badge)
 ![Redis]( https://img.shields.io/badge/redis-%2320232a.svg?style=for-the-badge)
 
+<h3>Operation Systems</h3>
 
-<h3>Linux</h3>
+![MacOS](https://img.shields.io/badge/macos-%2320232a?style=for-the-badge&logo=apple&logoColor=000000)
+![Linux](https://img.shields.io/badge/linux-%2320232a.svg?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Windosw](https://img.shields.io/badge/windows-%2320232a.svg?style=for-the-badge)
+
+<h3>Linux Distributions</h3>
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%2320232a?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 ![Debian](https://img.shields.io/badge/debian-%2320232a.svg?style=for-the-badge&logo=debian&logoColor=A81D33)
