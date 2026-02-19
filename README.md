@@ -57,13 +57,17 @@
 ![GitHub](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%2320232a.svg?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
 
+<h3>Infrastructure as Code</h3>
+
+![Pulumi](https://img.shields.io/badge/pulumi-%2320232a.svg?style=for-the-badge&logo=pulumi&logoColor=8A3391)
+![Terraform](https://img.shields.io/badge/terraform-%2320232a.svg?style=for-the-badge&logo=terraform&logoColor=844FBA)
+
 <h3>Tools</h3>
 
 ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%232496ED)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%2320232a.svg?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![Googlecloud](https://img.shields.io/badge/googlecloud-%2320232a.svg?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![Argodc](https://img.shields.io/badge/argocd-%2320232a.svg?style=for-the-badge&logo=argo&logoColor=EF7B4D)
-![Pulumi](https://img.shields.io/badge/pulumi-%2320232a.svg?style=for-the-badge&logo=pulumi&logoColor=8A3391)
 ![Dapr](https://img.shields.io/badge/dapr-%2320232a.svg?style=for-the-badge&logo=dapr&logoColor=0D2192)
 
 <h3>IDEs</h3>
