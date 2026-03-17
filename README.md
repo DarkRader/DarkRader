@@ -37,12 +37,13 @@
 
 ![Postgres](https://img.shields.io/badge/postgres-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192)
 ![Sqllite]( https://img.shields.io/badge/sqlite-%2320232a.svg?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![Mongodb]( https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Redis]( https://img.shields.io/badge/redis-%2320232a.svg?style=for-the-badge&logo=redis&logoColor=FF4438)
 ![Roomdb]( https://img.shields.io/badge/roomdb-%2320232a.svg?style=for-the-badge)
-![Redis]( https://img.shields.io/badge/redis-%2320232a.svg?style=for-the-badge)
 
 <h3>Operation Systems</h3>
 
-![MacOS](https://img.shields.io/badge/macos-%2320232a?style=for-the-badge&logo=apple&logoColor=000000)
+![MacOS](https://img.shields.io/badge/macos-%2320232a?style=for-the-badge&logo=apple&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/linux-%2320232a.svg?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Windosw](https://img.shields.io/badge/windows-%2320232a.svg?style=for-the-badge)
 
@@ -68,13 +69,20 @@
 ![Pulumi](https://img.shields.io/badge/pulumi-%2320232a.svg?style=for-the-badge&logo=pulumi&logoColor=8A3391)
 ![Terraform](https://img.shields.io/badge/terraform-%2320232a.svg?style=for-the-badge&logo=terraform&logoColor=844FBA)
 
+<h3>Monitoring</h3>
+
+![Grafana](https://img.shields.io/badge/grafana-%2320232a.svg?style=for-the-badge&logo=grafana&logoColor=F46800)
+![Prometheus](https://img.shields.io/badge/prometheus-%2320232a.svg?style=for-the-badge&logo=prometheus&logoColor=E6522C)
+![Opentelemetry](https://img.shields.io/badge/opentelemetry-%2320232a.svg?style=for-the-badge&logo=opentelemetry&logoColor=ffffff)
+
 <h3>Tools</h3>
 
 ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%232496ED)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%2320232a.svg?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![Googlecloud](https://img.shields.io/badge/googlecloud-%2320232a.svg?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-![Argodc](https://img.shields.io/badge/argocd-%2320232a.svg?style=for-the-badge&logo=argo&logoColor=EF7B4D)
 ![Dapr](https://img.shields.io/badge/dapr-%2320232a.svg?style=for-the-badge&logo=dapr&logoColor=0D2192)
+![Argodcd](https://img.shields.io/badge/argocd-%2320232a.svg?style=for-the-badge&logo=argo&logoColor=EF7B4D)
+![Proxmox](https://img.shields.io/badge/proxmox-%2320232a.svg?style=for-the-badge&logo=proxmox&logoColor=E57000)
 
 <h3>IDEs</h3>
 
