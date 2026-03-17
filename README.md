@@ -57,6 +57,12 @@
 ![GitHub](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%2320232a.svg?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
 
+<h3>Single Sign-On (SSO)</h3>
+
+![Keycloak](https://img.shields.io/badge/keycloak-%2320232a.svg?style=for-the-badge&logo=keycloak&logoColor=4D4D4D)
+![Authentik](https://img.shields.io/badge/authentik-%2320232a.svg?style=for-the-badge&logo=authentik&logoColor=FD4B2D)
+![Google](https://img.shields.io/badge/google-%2320232a.svg?style=for-the-badge&logo=google&logoColor=4285F4)
+
 <h3>Infrastructure as Code</h3>
 
 ![Pulumi](https://img.shields.io/badge/pulumi-%2320232a.svg?style=for-the-badge&logo=pulumi&logoColor=8A3391)
